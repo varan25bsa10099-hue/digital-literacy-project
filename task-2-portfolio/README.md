@@ -11,7 +11,7 @@ Kaggle: Established a profile to engage with the data science and AI community.
 ### Module 2 Deliverables
 * [View LinkedIn Profile Screenshot](./task-2-portfolio/LinkedIn-profile.jpeg)
 * [View GitHub Profile Screenshot](./task-2-portfolio/Screenshot%202026-03-24%20185702.png)
-* [View Kaggle Profile Screenshot](./)
+* [View Kaggle Profile Screenshot](./task-2-portfolio/Screenshot%202026-03-24%20185702.png)
 
 
 
