@@ -7,9 +7,9 @@ Module 1 Summary
 * Maintaining a Professional Online Presence
 
 **Tool Used:** Canva
-Deliverable:
+**Deliverable:**
 
-[View Infographic File](./task-1-presentation/Beige Newspaper Project Journey Infographic(2).png)
+[View Beige Newspaper Project Journey Infographic(2)File](./task-1-presentation/Beige Newspaper Project Journey Infographic(2).png)
 
 Task 1 Reflection: Digital Literacy Awareness
 
