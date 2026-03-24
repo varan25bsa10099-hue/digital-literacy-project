@@ -1,5 +1,14 @@
 Module 1 Summary
 
+**Key Topics Covered:**
+* Definition of Digital Literacy
+* Essential Digital Tools (GitHub, LinkedIn, Google Workspace)
+* Safe Internet Practices (Phishing awareness and UPI safety)
+* Maintaining a Professional Online Presence
+
+**Tool Used:** Canva
+**Deliverable:** [View Infographic File](./task-1-presentation/infographic.png)
+
 Task 1 Reflection: Digital Literacy Awareness
 
 As a Student Digital Ambassador at VIT Bhopal, my first objective was to design a comprehensive visual resource that simplifies the concept of 
@@ -9,5 +18,8 @@ and LinkedIn, safe internet practices including 1930 helpline awareness, and tip
 
 I found the process of "information chunking" particularly interesting—learning how to take complex safety protocols, such as UPI fraud prevention, 
 and turning them into scannable bullet points. The most challenging aspect was maintaining a balance between a clean visual aesthetic and including 
-all the necessary technical details required by the module. This task has strengthened my ability to communicatetechnical information effectively, ensuring 
+all the necessary technical details required by the module. This task has strengthened my ability to communicatetechnical information effectively, ensuring
 that my batchmates can navigate our digital academic environment safely and professionally.
+
+
+
