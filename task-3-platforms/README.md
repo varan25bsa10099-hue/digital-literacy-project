@@ -10,7 +10,7 @@ In my role as a **Student Digital Ambassador**, this module focuses on two core 
 | File Name | Platform | Key Focus |
 | :--- | :--- | :--- |
 | `task-3-platforms/Screenshot 2026-03-26 001419.png`
-| **HackerRank** | Successful completion of the 'Solve Me First' algorithm challenge. |
+`task-3-platforms/Screenshot 2026-03-26 001605.png`| **HackerRank** | Successful completion of the 'Solve Me First' algorithm challenge. |
 | `quiz-form.png` | **Google Forms** | A 5-question Digital Literacy Awareness Quiz with automated grading. |
 | `quiz-responses.png` | **Google Sheets** | Real-time response tracking and data synchronization. |
 
