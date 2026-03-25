@@ -10,7 +10,7 @@ In my role as a **Student Digital Ambassador**, this module focuses on transitio
 | :--- | :--- | :--- |
 |` | **Academic Formalism** | Requesting a UHV (Universal Human Values) assignment extension with a professional health reason. |
 |                         | **Career Outreach** | A formal inquiry to a Google University Recruiter, integrating LinkedIn and GitHub portfolio links. |
-| ` | **Digital Citizenship** | A 10-point checklist (5 Do's & 5 Don'ts) for maintaining a clean and professional digital footprint. |
+| task-4-email-etiquette/social-media-checklist.md | **Digital Citizenship** | A 10-point checklist (5 Do's & 5 Don'ts) for maintaining a clean and professional digital footprint. |
 
 ---
 ### 🚀 Professional Standards Applied
