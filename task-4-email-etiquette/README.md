@@ -8,7 +8,7 @@ In my role as a **Student Digital Ambassador**, this module focuses on transitio
 ### 📂 Folder Contents
 | File Name | Category | Key Focus |
 | :--- | :--- | :--- |
-|` | **Academic Formalism** | Requesting a UHV (Universal Human Values) assignment extension with a professional health reason. |
+| task-4-email-etiquette/Email.pdf| **Academic Formalism** | Requesting a UHV (Universal Human Values) assignment extension with a professional health reason. |
 |                         | **Career Outreach** | A formal inquiry to a Google University Recruiter, integrating LinkedIn and GitHub portfolio links. |
 | task-4-email-etiquette/social-media-checklist.md | **Digital Citizenship** | A 10-point checklist (5 Do's & 5 Don'ts) for maintaining a clean and professional digital footprint. |
 
