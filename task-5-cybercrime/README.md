@@ -10,8 +10,8 @@ As a **Student Digital Ambassador**, this final module focuses on identifying re
 
 | File Name | Category | Key Focus |
 | :--- | :--- | :--- |
-| `RTO-Scam-Case-Study.pdf` | **Case Study** | Analysis of a ₹5 Lakh 'E-Challan' phishing incident in Maharashtra. |
-| `prevention-checklist.md` | **Awareness Tool** | 8-Point 'Stay Safe Online' guide specifically for Indian students. |
+| `task-5-cybercrime/casestudy.pdf` | **Case Study** | Analysis of a ₹5 Lakh 'E-Challan' phishing incident in Maharashtra. |
+|  `task-5-cybercrime/prevention-checklist.md`| **Awareness Tool** | 8-Point 'Stay Safe Online' guide specifically for Indian students. |
 
 ---
 
