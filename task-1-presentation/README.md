@@ -9,7 +9,9 @@ Module 1 Summary
 **Tool Used:** Canva
 **Deliverable:**
 
-[View Infographic File](./task-1-presentation/Beige%20Newspaper%20Project%20Journey%20Infographic(2).png)
+
+**[View Infographic File](./task-1-presentation/Beige%20Newspaper%20Project%20Journey%20Infographic(2).png)**
+
 
 Task 1 Reflection: Digital Literacy Awareness
 
