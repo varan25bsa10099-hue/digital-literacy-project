@@ -11,7 +11,7 @@ In my role as a **Student Digital Ambassador**, this module focuses on two core 
 | :--- | :--- | :--- |
 | `task-3-platforms/HackerRank_Profile.pngtask-3-platforms/HackerRank_Profile.png` `task-3-platforms/HackerRank_Challenge_Solved.png` | **HackerRank** | Successful completion of the 'Solve Me First' algorithm challenge. |
 |`task-3-platforms/Google_Form_User_Preview.png` `task-3-platforms/Google_Form_Questions1_and_2_View.png` `task-3-platforms/Google_Form_Questions3_4_5_View.png`| **Google Forms** | A 5-question Digital Literacy Awareness Quiz with automated grading. |
-|`task-3-platforms/WhatsApp Image 2026-03-26 at 12.21.25 AM (1).jpeg``task-3-platforms/WhatsApp Image 2026-03-26 at 12.21.25 AM.jpeg` | **Google Sheets** | Real-time response tracking and data synchronization. |
+|`task-3-platforms/Quiz_Response_sheet.png` | **Google Sheets** | Real-time response tracking and data synchronization. |
 
 ---
 
