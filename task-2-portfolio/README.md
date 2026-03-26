@@ -25,7 +25,7 @@ Establishing a professional presence across key industry platforms to build a fo
 
 #### **2. GitHub Technical Repository**
 *Version control and codebase management for engineering projects.*
-![GitHub Profile](https://github.com/varan25bsa10099-hue/digital-literacy-project/blob/main/task-2-portfolio/Screenshot%202026-03-24%20185702.png?raw=true)
+![GitHub Profile](https://github.com/varan25bsa10099-hue/digital-literacy-project/blob/main/task-2-portfolio/Screenshot%202026-03-24%20185729.png?raw=true)
 
 #### **3. Kaggle Data Science Portfolio**
 *Engagement with global datasets and predictive modeling challenges.*
