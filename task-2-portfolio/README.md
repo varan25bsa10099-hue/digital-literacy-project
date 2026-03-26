@@ -1,22 +1,32 @@
-Module 2: Build Your Student Digital Portfolio
+**Module 2: Build Your Student Digital Portfolio**
 
-Objective: To establish a foundational professional presence across key digital platforms used by the global academic and tech community.
+**Objective:** To establish a foundational professional presence across key digital platforms used by the global academic and tech community.
 
-Platforms Set Up:
+**Platforms Set Up:**
 
 LinkedIn: Updated education details for VIT Bhopal to connect with professionals and track internship opportunities.
 GitHub Profile README: Created a personalized landing page showing my branch, year, and learning goals.
 Kaggle: Established a profile to engage with the data science and AI community.
 
-### Module 2 Deliverables
-* [View LinkedIn Profile Screenshot](./task-2-portfolio/LinkedIn-profile.jpeg)
-* [View GitHub Profile Screenshot](./task-2-portfolio/Screenshot%202026-03-24%20185702.png)
-* [View Kaggle Profile Screenshot](./task-2-portfolio/Screenshot%202026-03-24%20185702.png)
 
-
-
-Task 2 Reflection: Building a Student Digital Portfolio
+**Task 2 Reflection: Building a Student Digital Portfolio**
 
 For this task, I established my foundational professional presence on LinkedIn, GitHub, and Kaggle. I chose LinkedIn to begin connecting with the academic community at VIT Bhopal and to track industry trends and internship opportunities early in my degree. GitHub serves as my primary technical portfolio, where I will host my coding projects, document my learning progress, and eventually collaborate on open-source software. I selected Kaggle as my third platform because it is the leading community for data science and AI, offering a space to practice with real-world datasets and learn from global experts.
 
 As a first-year Computer Science and Engineering student, I plan to use these platforms to build a "digital trail" of my growth over the next four years. By maintaining professional and minimal profiles now, I am ensuring that my digital footprint is prepared for the professional world. These tools will not only help me bridge the gap between classroom theory and industry practice but will also demonstrate my consistency and technical skills to future employers and coordinators.
+
+
+* ### **Module 2: Professional Digital Footprint**
+Establishing a professional presence across key industry platforms to build a four-year technical roadmap.
+
+#### **1. LinkedIn Professional Profile**
+*Strategic networking and personal branding for career opportunities.*
+![LinkedIn Profile](https://github.com/varan25bsa10099-hue/digital-literacy-project/blob/main/task-2-portfolio/LinkedIn-profile.jpeg?raw=true)
+
+#### **2. GitHub Technical Repository**
+*Version control and codebase management for engineering projects.*
+![GitHub Profile](https://github.com/varan25bsa10099-hue/digital-literacy-project/blob/main/task-2-portfolio/Screenshot%202026-03-24%20185702.png?raw=true)
+
+#### **3. Kaggle Data Science Portfolio**
+*Engagement with global datasets and predictive modeling challenges.*
+![Kaggle Profile](https://github.com/varan25bsa10099-hue/digital-literacy-project/blob/main/task-2-portfolio/Screenshot%202026-03-24%20185702.png?raw=true)
