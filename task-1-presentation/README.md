@@ -10,7 +10,7 @@
 
 **Deliverable:**
 
-**[View Infographic File](./task-1-presentation/infographic.png?raw=true)**
+![Digital Literacy Infographic](https://github.com/varan25bsa10099-hue/digital-literacy-project/blob/main/task-1-presentation/infographic.png?raw=true)
 
 
 Task 1 Reflection: Digital Literacy Awareness
