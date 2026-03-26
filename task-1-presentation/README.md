@@ -1,4 +1,4 @@
-Module 1 Summary
+**Module 1 Summary**
 
 **Key Topics Covered:**
 * Definition of Digital Literacy
