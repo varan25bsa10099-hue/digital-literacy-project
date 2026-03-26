@@ -30,6 +30,7 @@ The project bridges the gap between technical engineering skills and the social 
 * **Focus:** Algorithmic logic and data automation.
 * **Outcome:** Completed **HackerRank** challenges and designed a cloud-integrated **Google Form/Sheet** survey for real-time data analysis.
 * **Folder:** `/task-3-platforms/`
+* **Google Quiz Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSdTzSQZNVRYG21hALVhiUjlY8y4wVBSpx-1mErKiL1E-aUaPw/viewform?usp=dialog
 
 ### **Module 4: Professional Communication & Etiquette**
 * **Focus:** Industry-standard correspondence.
