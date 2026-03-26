@@ -10,7 +10,7 @@ Module 1 Summary
 
 **Deliverable:**
 
-**[View Infographic File](./task-1-presentation/infographic.png)**
+**[View Infographic File](./task-1-presentation/infographic.png?raw=true)**
 
 
 Task 1 Reflection: Digital Literacy Awareness
