@@ -3,7 +3,7 @@
 ### 🎓 VIT Bhopal University | CSE1021
 **Student Name:** Varan Agrawal  
 **Registration Number:** 25BSA10099  
-**Branch:** B.Tech Computer Science & Engineering  
+**Branch:** BTech Computer Science & Engineering  
 
 ---
 
@@ -49,7 +49,7 @@ The complete 40-page technical documentation, including all screenshots, technic
 * `Project_Report.pdf`
 
 ---
-## 🚀 Future Roadmap: B.Tech CSE (2025-2029)
+## 🚀 Future Roadmap: BTech CSE (2025-2029)
 My objective is to maintain this repository as a living portfolio throughout my journey at VIT Bhopal:
 * **Short-term:** Expanding the `task-3-platforms` folder with advanced Data Structures and Algorithm (DSA) solutions.
 * **Mid-term:** Utilizing the Kaggle foundation for Machine Learning and AI research projects.
