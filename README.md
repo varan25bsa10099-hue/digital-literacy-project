@@ -24,7 +24,7 @@ The project bridges the gap between technical engineering skills and the social 
 ### **Module 2: The Digital Portfolio Ecosystem**
 * **Focus:** Establishing a professional "Digital Twin."
 * **Outcome:** Built a technical roadmap across **LinkedIn** (Networking), **GitHub** (Version Control), and **Kaggle** (Data Science).
-* **Links:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varan-agrawal-a1262a37b) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varan25bsa10099-hue) | [Kaggle](https://www.kaggle.com/your-username)
+* **Links:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varan-agrawal-a1262a37b) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varan25bsa10099-hue) |[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/varanag18)
 
 ### **Module 3: Technical Problem Solving & Collaboration**
 * **Focus:** Algorithmic logic and data automation.
