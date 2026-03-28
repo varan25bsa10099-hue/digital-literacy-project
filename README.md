@@ -56,4 +56,4 @@ My objective is to maintain this repository as a living portfolio throughout my 
 * **Long-term:** Leveraging this documented growth to secure high-impact internships, such as the Google STEP program.
 
 ---
-*“Securing the digital world, one ambassador at a time.”* **Connect with me:** [LinkedIn Profile Link]
+*“Securing the digital world, one ambassador at a time.”* **Connect with me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varan-agrawal-a1262a37b)
