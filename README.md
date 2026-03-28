@@ -40,7 +40,7 @@ The project bridges the gap between technical engineering skills and the social 
 ### **Module 5: Cybercrime Awareness & Prevention**
 * **Focus:** Threat analysis and community safety.
 * **Outcome:** Analyzed a real-world **₹5 Lakh RTO Phishing Scam** and developed an 8-point **Stay Safe Online** checklist for UPI and financial security.
-* **Folder:** `/task-5-cyber-awareness/`
+* **Folder:** [![Task 5](https://img.shields.io/badge/Task--5-Cybercrime%20Analysis-red?style=for-the-badge&logo=generic-shared&logoColor=white)](task-5-cybercrime)
 
 ---
 
