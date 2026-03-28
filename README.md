@@ -19,7 +19,7 @@ The project bridges the gap between technical engineering skills and the social 
 ### **Module 1: Professional Identity (Visual Advocacy)**
 * **Focus:** Visual communication of digital literacy.
 * **Outcome:** Designed an infographic using **Canva** to educate peers on core tools like GitHub, LinkedIn, and safe internet practices.
-* **Folder:** `/task-1-presentation/`
+* **Folder:** [![Task 1](https://img.shields.io/badge/Task--1-Presentation-yellow?style=for-the-badge&logo=googleslides&logoColor=white)](task-1-presentation)
 
 ### **Module 2: The Digital Portfolio Ecosystem**
 * **Focus:** Establishing a professional "Digital Twin."
@@ -29,13 +29,13 @@ The project bridges the gap between technical engineering skills and the social 
 ### **Module 3: Technical Problem Solving & Collaboration**
 * **Focus:** Algorithmic logic and data automation.
 * **Outcome:** Completed **HackerRank** challenges and designed a cloud-integrated **Google Form/Sheet** survey for real-time data analysis.
-* **Folder:** `/task-3-platforms/`
+* **Folder:** [![Task 3](https://img.shields.io/badge/Task--3-Platforms-blueviolet?style=for-the-badge&logo=git&logoColor=white)](task-3-platforms)
 * **Google Quiz Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSdTzSQZNVRYG21hALVhiUjlY8y4wVBSpx-1mErKiL1E-aUaPw/viewform?usp=dialog
 
 ### **Module 4: Professional Communication & Etiquette**
 * **Focus:** Industry-standard correspondence.
 * **Outcome:** Mastered formal email protocols for academic and corporate outreach (e.g., Google STEP Internship inquiry) and developed a 10-point Social Media Code of Conduct.
-* **Folder:** `/task-4-communication/`
+* **Folder:** [![Task 4](https://img.shields.io/badge/Task--4-Email%20Etiquette-green?style=for-the-badge&logo=gmail&logoColor=white)](task-4-email-etiquette)
 
 ### **Module 5: Cybercrime Awareness & Prevention**
 * **Focus:** Threat analysis and community safety.
