@@ -46,7 +46,7 @@ The project bridges the gap between technical engineering skills and the social 
 
 ## 📄 Final Project Report
 The complete 40-page technical documentation, including all screenshots, technical reflections, and learning outcomes, is available here:
-* [![Project Report](https://img.shields.io/badge/View-Project%20Report-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Project_Report.pdf)
+* [![Project Report](https://img.shields.io/badge/Project%20Report-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Project_Report.pdf)
 
 ---
 ## 🚀 Future Roadmap: BTech CSE (2025-2029)
